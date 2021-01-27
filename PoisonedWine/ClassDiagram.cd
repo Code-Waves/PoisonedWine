@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="About" Collapsed="true">
+    <Position X="23.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAEAIBAAAAAEAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>About.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AboutFunction">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEAgAAAAAAAAAAAAABEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutFunction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BandMan">
+    <Position X="25.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAAAgACAAAAAAAAAIAAAAIAAAQAAABAAAAAAAAAA=</HashCode>
+      <FileName>BandMan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button" Collapsed="true">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAABAAAAAAAAAAAQAAAAhAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGame">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEgJgAAALDANUwglIJAxSwDQQBCgAACEABUGAAAQoGg=</HashCode>
+      <FileName>CGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrontNextMusic">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACBAAACAEAhAgAAQAABIBCCAAIAkQgAAAAAAABAg=</HashCode>
+      <FileName>FrontNextMusic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediaVoice" Collapsed="true">
+    <Position X="14.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAIACCAEAggIAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MediaVoice.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Numberarr" Collapsed="true">
+    <Position X="25.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAEAAAAAAAAAAIAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Numberarr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OtherFuction">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAEAAAAACAQAAAAAABAAAQABAQgEAAAAAA=</HashCode>
+      <FileName>OtherFuction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyGameApp">
+    <Position X="27.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAACAAAABQAAAAAAAAAAEA=</HashCode>
+      <FileName>PoisonedWine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyGameDlg">
+    <Position X="23.75" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CMyGameDlg::__unnamed_enum_001b_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PoisonedWineDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EACAAAEAAAAAAAgAAJAAAABAABAAABUAAAAAAAAQAgA=</HashCode>
+      <FileName>PoisonedWineDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Binary" Collapsed="true">
+    <Position X="19" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQQFEALDAIEAgAAogQAAAAAAAAhkEIAAkAEACABAAA=</HashCode>
+      <FileName>Binary.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Start">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iBAwxGIQvC4eRiEAsgRIRAAABAAnAMYUKMBiBSAIEAQ=</HashCode>
+      <FileName>Start.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Step">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>HBgQBGIALAYMAgAAogQIQAAAAAAhiMIEIBAGBCABAAA=</HashCode>
+      <FileName>Step.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Story" Collapsed="true">
+    <Position X="16.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAJSANAgAAIBAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Story.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoryorPro" Collapsed="true">
+    <Position X="21.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQEAgAAAIAAQAAAAAAABAAAAAACABAQAAA=</HashCode>
+      <FileName>StoryorPro.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
