@@ -4,3 +4,6 @@
 问题1：5周之后，国王希望举行一个宴会，能否在宴会之前找出有毒的酒桶？
 问题2：国王能否在只牺牲8个奴隶的情况下找出有毒的酒桶？
 本项目基于MFC对“识别毒酒”这个古老问题从故事背景介绍、所需数学知识讲解、解决问题步骤、找出毒酒等一系列过程进行了演示。本项目中通过使用图片变换、播放音频等方式，使项目界面操作简单自然，同时使得算法演示更加形象化，方便用户理解。本项目提供了演示模块，将随机产生“毒酒”桶，并利用算法求解。项目运行中的一些的数据将会以文本方式记录在本地，方便查阅。
+[![szOzZQ.png](https://s3.ax1x.com/2021/01/27/szOzZQ.png)](https://imgchr.com/i/szOzZQ)
+[![szXEsU.png](https://s3.ax1x.com/2021/01/27/szXEsU.png)](https://imgchr.com/i/szXEsU)
+[![szXAMT.png](https://s3.ax1x.com/2021/01/27/szXAMT.png)](https://imgchr.com/i/szXAMT)
